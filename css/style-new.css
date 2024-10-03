@@ -1,0 +1,141 @@
+.service-development {
+    padding: 120px 0;
+    background-color: #fff;
+}
+
+.service-development .service-development-content {
+    width: 100%;
+    padding: 40px;
+    border-radius: 60px;
+    min-height: 430px;
+    transition: all 0.3s ease-in-out;
+}
+
+.service-development .service-development-content h5 {
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 23px;
+    font-family: "Gilroy-Medium";
+}
+
+.service-development .service-development-content ul {
+    padding-left: 20px;
+    margin: 0;
+}
+
+.service-development .service-development-content ul li {
+    color: #f7f7f7;
+    line-height: 23px;
+    font-family: "Gilroy-Regular";
+    padding-bottom: 10px;
+    font-size: 18px;
+}
+
+.service-development .service-development-content ul li:last-child {
+    padding-bottom: 0;
+}
+
+.service-development .service-development-content.bg-first {
+    background: linear-gradient(to top right, #c51f45 0%, #de685e 85%);
+    box-shadow: 0 0px 45px 0px rgb(169 31 69 / 50%);
+}
+
+.service-development .service-development-content.bg-first:hover {
+    box-shadow: 0 0px 50px 5px rgb(169 31 69 / 60%);
+    margin-top: -10px;
+    cursor: pointer;
+}
+
+.service-development .service-development-content.bg-last {
+    background: linear-gradient(to top right, #e5a005 0%, #f7b926 85%);
+    box-shadow: 0 0px 45px 0px rgb(229 160 5 / 50%);
+}
+
+.service-development .service-development-content.bg-last:hover {
+    box-shadow: 0 0px 50px 5px rgb(229 160 5 / 60%);
+    margin-top: -10px;
+    cursor: pointer;
+}
+
+
+/*  About Value Section CSS */
+
+.about-values-main {
+    padding: 120px 0;
+    background-color: #fff;
+    background-size: cover;
+    background-position: center;
+}
+
+.about-values-main .about-values-inn {
+    padding: 0 12px;
+}
+
+.about-values-main .about-values-content {
+    width: 100%;
+    text-align: center;
+    padding: 35px 40px;
+    border-radius: 30px;
+    transition: all 0.3s ease-in-out;
+}
+
+.about-values-main .about-values-content p {
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 0;
+    font-family: "Gilroy-Medium";
+    line-height: 24px;
+}
+
+.about-values-main .about-values-content.bg-first {
+    background: linear-gradient(to top right, #301f65 0%, #5c47ac 85%);
+    box-shadow: 0 0px 45px 0px rgb(48 31 101 / 50%);
+    padding: 35px ​30px;
+}
+
+.about-values-main .about-values-content.bg-first:hover {
+    box-shadow: 0 0px 50px 5px rgb(48 31 101 / 60%);
+    margin-top: -10px;
+    cursor: pointer;
+}
+
+.about-values-main .about-values-content.bg-second {
+    background: linear-gradient(to top right, #c51f45 0%, #de685e 85%);
+    box-shadow: 0 0px 45px 0px rgb(169 31 69 / 50%);
+    padding: 35px 21px;
+}
+
+.about-values-main .about-values-content.bg-second:hover {
+    box-shadow: 0 0px 50px 5px rgb(169 31 69 / 60%);
+    margin-top: -10px;
+    cursor: pointer;
+}
+
+.about-values-main .about-values-content.bg-last {
+    background: linear-gradient(to top right, #e5a005 0%, #f7b926 85%);
+    box-shadow: 0 0px 45px 0px rgb(229 160 5 / 50%);
+    padding: 35px 20px;
+}
+
+.about-values-main .about-values-content.bg-last:hover {
+    box-shadow: 0 0px 50px 5px rgb(229 160 5 / 60%);
+    margin-top: -10px;
+    cursor: pointer;
+}
+
+.about-values-main .about-values-content.last {
+    padding: 35px 20px;
+    padding-bottom: 25px;
+}
+
+.about-values-main .value-1 {
+    margin-top: 50px;
+}
+
+.about-values-main .value-2 {
+    margin-top: 240px;
+}
+
+.about-values-main .value-4 {
+    margin-top: 180px;
+}
